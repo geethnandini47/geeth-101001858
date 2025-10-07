@@ -33,7 +33,7 @@ steps:
     
 # Specify the image to be stored in Artifact Registry upon a successful build.
 images:
-  - 'us-central1-docker.pkg.dev/kaif123/kaif-101001476/assignment2:${SHORT_SHA}'
+  - 'us-central1-docker.pkg.dev/lustrous-jet-474400-q3/geeth-101001858/assignment2:${SHORT_SHA}'
 
 # Configure build options.
 options:
